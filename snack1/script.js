@@ -6,6 +6,6 @@ const secondNumber = Number.parseInt(prompt('type second number') ,10);
 if (firstNumber > secondNumber){
     console.log(firstNumber);
 
-}else( secondNumber > firstNumber){
+}else if(secondNumber > firstNumber){
     console.log(secondNumber);
 }
