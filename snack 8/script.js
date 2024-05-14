@@ -24,3 +24,5 @@ for (let index = 0; index < numberArray.length; index++){
         divRedEL.appendChild(newElement);
     }
 }
+
+
