@@ -13,7 +13,7 @@ divRedEL.classList.add('red');
 
 
 for (let index = 0; index < numberArray.length; index++){
-    const element = numberArray[index];
+    
     const newElement = document.createElement('p');
     newElement.append(numberArray[index]);
 
